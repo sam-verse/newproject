@@ -2,6 +2,8 @@
 
 This project implements a machine learning solution for predicting farmer income in India using demographic, agricultural, weather, and socio-economic features.
 
+# new change
+
 ## Project Structure
 
 ```
